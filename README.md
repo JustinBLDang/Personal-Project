@@ -5,7 +5,11 @@ This was my very first coding project which started in 2019. I wanted to use thi
 
 Currently implemented:
 1) 2D Player controller; Tap on a level in the current map and the selected character will auto path to that location.
-2) 
+2) 2D Shader for character selection; Morphs to character sprite and creates an outline which can have the outline thickness and color adjusted
+3) 2D Construction System; Supports 3 types of rooms: Large, medium, and small
+4) Room Object; Using Scriptable Objects, I created a template for a room Object that contains all the information necessary for its' instantiation, function, and   appearance.
+5) Level Construction tools; To build future levels, I created a simple system that allows me to create extremely flexible designs to allow me to design levels as long as rooms remain in the same rectangular shape.
+6)
 
 Current State:
 

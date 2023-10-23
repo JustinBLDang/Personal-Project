@@ -1,7 +1,7 @@
 # Personal-Project
-A little incomplete game that was initially inspired by This War of Mine and Fallout Shelter on the IOS.
+Inspired by This War of Mine and Fallout Shelter on the IOS.
 
-This was my very first coding project which started in 2019. I wanted to use this as an opportunity to set small goals such as getting a character to move, saving data, etc to push myself to become better at something I was genuinely interested in. This project also pushed me to try creating art, which today has brought me to a point where I enjoy drawing and studying human anatomy.
+This was my very first coding project which started in 2019. I wanted to use this as an opportunity to set small goals such as getting a character to move, saving data, etc to push myself to become better at something I was genuinely interested in. 
 
 <strong>Currently implemented:</strong>
 1) <strong>2D Camera Controller</strong>; Allows the player to move the camera similar to Fallout Shelter with 1 finger. Player can zoom in and out using 2 fingers. 

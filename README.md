@@ -12,7 +12,7 @@ This was my very first coding project which started in 2019. I wanted to use thi
 
 4) <strong>2D Construction System</strong>; Supports 3 types of rooms: Large, medium, and small
 
-5) <strong>Room Object</strong>; Using Scriptable Objects, I created a template for a room Object that contains all the information necessary for its' instantiation, function, and   appearance.
+5) <strong>Rooms</strong>; Using Scriptable Objects, I created a template for a room Object that contains all the information necessary for its' instantiation, function, and   appearance.
 
 6) <strong>Level Construction tools</strong>; To build future levels, I created a simple system that allows me to create extremely flexible designs to allow me to design levels as long as rooms remain in the same rectangular shape.
 

@@ -9,9 +9,7 @@
 
 4) <strong>2D Construction System</strong>; Opens a menu containing any Room Object I create, allows player to place them in designated spots
 
-5) <strong>Rooms Object</strong>; Using Scriptable Objects, I created a template for a room Object that contains all the information necessary for instantiation, function, and appearance.
-
-6) <strong>Level Construction tools</strong>; To build future levels, I created a simple system that allows me to flexibility to place rooms anywhere and build levels without restriction
+5) <strong>Level Construction tools</strong>; Game automatically sets up level using layers and tags. All I have to do is place rooms in any position and tag the gameObject to allow players to move between rooms.
 
 
 Current State:

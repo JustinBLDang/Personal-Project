@@ -1,15 +1,13 @@
 # Personal-Project
 
 <strong>Currently implemented:</strong>
-1) <strong>2D Camera Controller</strong>; Allows the player to move the camera similar to Fallout Shelter with 1 finger. Player can zoom in and out using 2 fingers. 
+1) <strong>2D Camera Controller</strong>; Allows the player to move the camera with 1 finger. Player can zoom in and out using 2 fingers. 
 
 2) <strong>2D Player controller</strong>; Tap on a level in the current map and the selected character will auto path to that location.
 
-3) <strong>2D Shader for character selection</strong>; Morphs to character sprite and creates an outline which can have the outline thickness and color adjusted
+3) <strong>2D Construction System</strong>; Opens a menu containing any Room Object I create, allows player to place them in designated spots
 
-4) <strong>2D Construction System</strong>; Opens a menu containing any Room Object I create, allows player to place them in designated spots
-
-5) <strong>Level Construction tools</strong>; Game automatically sets up level using layers and tags. All I have to do is place rooms in any position and tag the gameObject to allow players to move between rooms.
+4) <strong>Level Construction tools</strong>; Game automatically sets up level using layers and tags. All I have to do is place rooms in any position and tag the gameObject to allow players to move between rooms.
 
 
 Current State:

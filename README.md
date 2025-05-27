@@ -7,8 +7,7 @@
 
 3) <strong>2D Construction System</strong>; Opens a menu containing any Room Object I create, allows player to place them in designated spots
 
-4) <strong>Level Construction tools</strong>; Game automatically sets up level using layers and tags. All I have to do is place rooms in any position and tag the gameObject to allow players to move between rooms.
-
+4) <strong>Level Construction tools</strong>; Game automatically recognizes rooms and builds the level. 
 
 Current State:
 
